@@ -2,6 +2,12 @@
 
 上海杉达学院微专业宣传片，用于微专业介绍的对外展示与分发。
 
+## 🎬 在线观看
+
+**https://xy547.github.io/sanda-micro-major-video/**
+
+打开即可直接在网页里播放，无需下载（GitHub Pages 托管）。
+
 ## 视频文件
 
 | 项目 | 信息 |
@@ -14,6 +20,8 @@
 
 ## 直接观看
 
+在线播放页见上方链接。若只想拿文件：
+
 点击仓库里的 `杉达微专业宣传视频.mp4` → 右上角 **Download** 即可下载播放；
 也可访问 raw 直链：
 
@@ -21,8 +29,8 @@
 https://github.com/xy547/sanda-micro-major-video/raw/main/%E6%9D%89%E8%BE%BE%E5%BE%AE%E4%B8%93%E4%B8%9A%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91.mp4
 ```
 
-> 说明：GitHub 页面内不支持直接播放 mp4，需下载后用本地播放器打开。
-> 若需要网页内嵌播放，可配合 GitHub Pages 放一个 `<video>` 页面。
+> 说明：GitHub 仓库页面内不支持直接播放 mp4，需下载后用本地播放器打开；
+> 想在线看请用上面的 Pages 链接。
 
 ## 使用说明
 
